@@ -5,5 +5,4 @@ Generate a Rotationg PMSM rotor video.
 This script uses openCV package.
 
 # sample
-https://user-images.githubusercontent.com/74084344/196875160-b4043f9f-b34f-4915-9199-aadb7292919f.mp4
-
+https://user-images.githubusercontent.com/74084344/196875423-07fdee80-aa01-4e17-8d4c-ffa98e37be35.mp4
